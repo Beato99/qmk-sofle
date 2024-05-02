@@ -1,6 +1,5 @@
 # Default QMK firmware for ErgoFrets Sofle Keyboard
 
-Alternatively, install the  WSL version for Windows: https://wsl.qmk.fm/
 ![IMG_4107-min](https://github.com/Beato99/qmk-sofle/assets/121782036/4b2b54ee-6dae-495b-9ca5-f4f848a43b7c)
 
 If you're seeing this, that probably means that you have an [ErgoFrets Sofle Keyboard](https://www.etsy.com/listing/1273810417/sofle-keyboard)
