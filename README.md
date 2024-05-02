@@ -3,6 +3,8 @@
 Download QMK software using the source code: https://docs.qmk.fm/#/newbs  
 Alternatively, install the  WSL version for Windows: https://wsl.qmk.fm/
 
+Add the firmware folder inside ```qmk_firmare/keyboards/sofle/keymaps```  
+
 Make the changes you'd like to the keyboard and compile it using  
 ```qmk compile -kb <keyboard> -km <keymap>```  
 Use QMK toolbox to easily load the firmware onto the microcontroller
